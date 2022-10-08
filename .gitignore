@@ -1,2 +1,7 @@
 _site/
 
+# Ignore rbenv config
+.ruby-version
+
+# Ignore local versioning of dependencies
+Gemfile.lock
