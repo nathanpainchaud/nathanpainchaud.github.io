@@ -13,6 +13,8 @@ redirect_from:
 - [Scholarships & Awards](#scholarships--awards)
 - [Publications](#publications)
 - [Reviews](#reviews)
+- [Teaching](#teaching)
+  - [Teaching Assistant](#teaching-assistant)
 - [Work Experience](#work-experience)
 - [Service and Leadership](#service-and-leadership)
 
@@ -87,12 +89,19 @@ Reviewer for top-tier journals in artificial intelligence and medical imaging:
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
-  
-<!-- Teaching
+
+&nbsp;
+
+Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+
+## Teaching Assistant
+
+  <ul>{% for post in site.teaching reversed %}
+    {% if post.role == 'TA' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}</ul>
 
 &nbsp;
 
