@@ -12,6 +12,7 @@ redirect_from:
 - [Education](#education)
 - [Scholarships & Awards](#scholarships--awards)
 - [Publications](#publications)
+- [Reviews](#reviews)
 - [Work Experience](#work-experience)
 - [Service and Leadership](#service-and-leadership)
 
@@ -71,6 +72,15 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+&nbsp;
+
+Reviews
+======
+Reviewer for top-tier journals in artificial intelligence and medical imaging:
+* [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
+* [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
+* [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
   
 <!-- Talks
 ======
