@@ -9,32 +9,62 @@ redirect_from:
 
 {% include base_path %}
 
+- [Education](#education)
+- [Scholarships & Awards](#scholarships--awards)
+- [Publications](#publications)
+- [Work Experience](#work-experience)
+- [Service and Leadership](#service-and-leadership)
+
+&nbsp;
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* *Ph.D. in Computer Science* (cotutelle), **Université de Sherbrooke** / **INSA Lyon**, *2020-*  
+Supervisors: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html), [Olivier Bernard](https://www.creatis.insa-lyon.fr/~bernard/index.html), [Nicolas Duchateau](https://www.creatis.insa-lyon.fr/~duchateau/)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* *M.Sc. in Computer Science*, **Université de Sherbrooke**, *2019-*  
+Supervisor: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* *B.Sc. in Computer Science*, **Université de Sherbrooke**, *2016-2019*
+
+&nbsp;
+
+Scholarships & Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Thesis funding**, *2022-2023*  
+[*LabEx PRIMES*](https://primes.universite-lyon.fr)
+
+* **Canada Graduate Scholarship – Doctorate (CGS D)**, *2021-2024*  
+*Natural Sciences and Engineering Research Council of Canada* (NSERC)
+
+* **Doctoral training scholarship**, *2021-2025*  
+*Fonds de Recherche - Nature et Technologies* (FRQNT)
+
+* **Hydro-Québec merit scholarship** (declined), *2021-2024*  
+*Université de Sherbrooke*
+
+* **Scholarship for Doctoral level study**, *2020-2022*  
+[*Fondation Arbour*](https://www.fondationarbour.com/en/)
+
+* **R3D Conseil inc. scholarship**, *2020*  
+*Université de Sherbrooke*
+
+* **Alexander Graham Bell Canada Graduate Scholarship - Master's (CGS M)**, *2019-2020*  
+*Natural Sciences and Engineering Research Council of Canada* (NSERC)
+
+* **Master's training scholarship**, *2019-2021*  
+*Fonds de Recherche - Nature et Technologies* (FRQNT)
+
+* **Graduate studies merit scholarship** (declined), *2019-2021*  
+*Université de Sherbrooke*
+
+* **Canada Graduate Scholarships – Michael Smith Foreign Study Supplements (CGS-MSFSS)**, *2019*  
+*Natural Sciences and Engineering Research Council of Canada* (NSERC)
+
+* **Gérard-Houdeville award**, *2019*  
+*Université de Sherbrooke*
+
+&nbsp;
 
 Publications
 ======
@@ -42,18 +72,52 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+  {% endfor %}</ul> -->
+
+&nbsp;
+
+Work Experience
 ======
-* Currently signed in to 43 different slack teams
+* *Summer 2019*: **[CREATIS](https://www.creatis.insa-lyon.fr/site7/en) (Biomedical imaging research laboratory)**  
+*Invited student researcher*  
+Supervisor: [Olivier Bernard](https://www.creatis.insa-lyon.fr/~bernard/index.html)
+  * **Duties included**: Generalizing an anatomically-consistent segmentation method, first developed for cardiac cine-MRI, to echocardiography
+
+* *Summer 2018*: **[GRIIS](https://griis.ca) (Interdisciplinary Research Group in Health Informatics)**  
+*Backend developer* (Intern)  
+Supervisor: [Luc Lavoie](http://info.usherbrooke.ca/llavoie/)
+  * **Duties included**: Specifying and validating software requirements, design and test-driven implementation of internal APIs
+
+&nbsp;
+
+Service and Leadership
+======
+* *2021-2023*: **Université de Sherbrooke** / **École de technologie supérieure (ETS)** / **CREATIS**  
+*Hands-on Supervisor for the Deep Learning for Medical Imaging School*
+  * **Duties included**: Preparing administrative and scientific content (video tutorials, interactive exercises, etc.), organizing and moderating hands-on sessions
+
+* *2022*: **CREATIS**  
+*Organizer of the doctoral day for 3rd year Ph.D. students*
+  * **Duties included**: Communication with the participants (call for presentations, etc.), preparing the schedule, preparing the location and material (checking material for the presentations, testing auditorium setup, etc.), and coordinating the presentations on the day of
+
+* *2021-2022*: **Université de Sherbrooke**  
+*Scholarships applications support*
+  * **Duties included**: Helping graduate students prepare their scholarships applications
+
+* *2020-2021*: **Université de Sherbooke**  
+*Medical imaging student committee*
+  * **Duties included**: Organizing events for the community of graduate students in medical imaging
+
+* *2018-2021*: **Université de Sherbrooke**  
+*Student representative for promotional events*
+  * **Duties included**: Recruitment of prospective students
