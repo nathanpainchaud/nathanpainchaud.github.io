@@ -34,7 +34,10 @@ Supervisor: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html
 
 Scholarships & Awards
 ======
-* **Thesis funding**, *2022-2023*  
+* [**Louis-Berlinguet "Relève étoile" Award**, *April 2023*](https://frq.gouv.qc.ca/en/story-and-report/releve-etoile-louis-berlinguet-avril-2023/)  
+*Fonds de Recherche - Nature et Technologies* (FRQNT)
+
+* [**Thesis funding**, *2022-2023*](https://primes.universite-lyon.fr/labex-primes/site-francais/navigation/recherche/wp-4-traitement-d-images-multidimensionnelles-/nathan-painchaud-2020-2023-apprentissage-profond-de-varietes-pour-une-meilleure-caracterisation-de-l-hypertension-arterielle-en-imagerie-echocardiographique-197031.kjsp)  
 [*LabEx PRIMES*](https://primes.universite-lyon.fr)
 
 * **Canada Graduate Scholarship – Doctorate (CGS D)**, *2021-2024*  
@@ -43,7 +46,7 @@ Scholarships & Awards
 * **Doctoral training scholarship**, *2021-2025*  
 *Fonds de Recherche - Nature et Technologies* (FRQNT)
 
-* **Hydro-Québec merit scholarship** (declined), *2021-2024*  
+* [**Hydro-Québec merit scholarship** (declined), *2021-2024*](https://www.usherbrooke.ca/recherche/etudier/pourquoi-choisir-udes/programmes-bourses/excellence/titulaires/hiver-2021)  
 *Université de Sherbrooke*
 
 * **Scholarship for Doctoral level study**, *2020-2022*  
@@ -58,13 +61,13 @@ Scholarships & Awards
 * **Master's training scholarship**, *2019-2021*  
 *Fonds de Recherche - Nature et Technologies* (FRQNT)
 
-* **Graduate studies merit scholarship** (declined), *2019-2021*  
+* [**Graduate studies merit scholarship** (declined), *2019-2021*](https://www.usherbrooke.ca/recherche/etudier/pourquoi-choisir-udes/programmes-bourses/excellence/titulaires/hiver-2019)  
 *Université de Sherbrooke*
 
 * **Canada Graduate Scholarships – Michael Smith Foreign Study Supplements (CGS-MSFSS)**, *2019*  
 *Natural Sciences and Engineering Research Council of Canada* (NSERC)
 
-* **Gérard-Houdeville award**, *2019*  
+* [**Gérard-Houdeville award**, *2019*](https://www.usherbrooke.ca/informatique/actualites/prix-et-distinctions/mentions-excellence)  
 *Université de Sherbrooke*
 
 &nbsp;
