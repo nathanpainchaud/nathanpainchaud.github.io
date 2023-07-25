@@ -11,6 +11,21 @@ author_profile: true
 
 {% include base_path %}
 
+- [Journal Papers](#journal-papers)
+- [Conference Papers](#conference-papers)
+
+## Journal Papers
+
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.type == 'journal' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## Conference Papers
+
+{% for post in site.publications reversed %}
+  {% if post.type == 'proceedings' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}

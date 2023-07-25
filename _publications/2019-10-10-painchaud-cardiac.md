@@ -2,6 +2,7 @@
 title: "Cardiac MRI Segmentation with Strong Anatomical Guarantees"
 collection: publications
 permalink: /publication/2019-10-10-painchaud-cardiac
+type: proceedings
 date: 2019-10-10
 venue: 'Medical Image Computing and Computer Assisted Intervention (MICCAI)'
 paperurl: 'https://doi.org/10.1007/978-3-030-32245-8_70'

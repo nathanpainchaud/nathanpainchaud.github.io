@@ -12,6 +12,8 @@ redirect_from:
 - [Education](#education)
 - [Scholarships & Awards](#scholarships--awards)
 - [Publications](#publications)
+  - [Journal Papers](#journal-papers)
+  - [Conference Papers](#conference-papers)
 - [Reviews](#reviews)
 - [Teaching](#teaching)
   - [Teaching Assistant](#teaching-assistant)
@@ -74,8 +76,19 @@ Scholarships & Awards
 
 Publications
 ======
+
+## Journal Papers
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% if post.type == 'journal' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}</ul>
+
+## Conference Papers
+  <ul>{% for post in site.publications reversed %}
+    {% if post.type == 'proceedings' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ul>
 
 &nbsp;

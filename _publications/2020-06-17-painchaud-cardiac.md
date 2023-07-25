@@ -2,6 +2,7 @@
 title: "Cardiac Segmentation with Strong Anatomical Guarantees"
 collection: publications
 permalink: /publication/2020-06-17-painchaud-cardiac
+type: journal
 date: 2020-06-17
 venue: 'IEEE Transactions on Medical Imaging (IEEE TMI)'
 paperurl: 'https://doi.org/10.1109/TMI.2020.3003240'
