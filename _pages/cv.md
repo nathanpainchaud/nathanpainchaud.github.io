@@ -99,6 +99,7 @@ Reviewer for top-tier journals in artificial intelligence and medical imaging:
 * [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 * [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
 * [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
+* [IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=58)
 * [Scientific Reports](https://www.nature.com/srep/)
   
 <!-- Talks
