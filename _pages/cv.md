@@ -36,6 +36,9 @@ Supervisor: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html
 
 Scholarships & Awards
 ======
+* **Scientific distinction**, *December 2023*  
+*INSA Lyon*
+
 * [**Louis-Berlinguet "Relève étoile" Award**, *April 2023*](https://frq.gouv.qc.ca/en/story-and-report/releve-etoile-louis-berlinguet-avril-2023/)  
 *Fonds de Recherche - Nature et Technologies* (FRQNT)
 
