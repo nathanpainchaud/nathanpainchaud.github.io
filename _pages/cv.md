@@ -18,7 +18,7 @@ redirect_from:
 - [Teaching](#teaching)
   - [Teaching Assistant](#teaching-assistant)
 - [Work Experience](#work-experience)
-- [Service and Leadership](#service-and-leadership)
+- [Service and Volunteer Work](#service-and-volunteer-work)
 
 &nbsp;
 
@@ -137,11 +137,15 @@ Supervisor: [Luc Lavoie](http://info.usherbrooke.ca/llavoie/)
 
 &nbsp;
 
-Service and Leadership
+Service and Volunteer Work
 ======
 * *2021-2023*: **Université de Sherbrooke** / **École de technologie supérieure (ETS)** / **CREATIS**  
 *Hands-on Supervisor for the Deep Learning for Medical Imaging School*
   * **Duties included**: Preparing administrative and scientific content (video tutorials, interactive exercises, etc.), organizing and moderating hands-on sessions
+
+* *June 2023*: **Functional Imaging and Modeling of the Heart (FIMH)**  
+*Student volunteer for the organization of the conference*
+  * **Duties included**: Administrative and manual labor during the conférence, such as: recording of keynote and oral presentations, setting up the venue, greeting attendees, etc.
 
 * *2022*: **CREATIS**  
 *Organizer of the doctoral day for 3rd year Ph.D. students*
