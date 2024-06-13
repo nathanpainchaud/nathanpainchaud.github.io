@@ -24,8 +24,9 @@ redirect_from:
 
 Education
 ======
-* *Ph.D. in Computer Science* (cotutelle), **Université de Sherbrooke** / **INSA Lyon**, *2020-*  
-Supervisors: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html), [Olivier Bernard](https://www.creatis.insa-lyon.fr/~bernard/index.html), [Nicolas Duchateau](https://www.creatis.insa-lyon.fr/~duchateau/)
+* *Ph.D. in Computer Science* (cotutelle), **Université de Sherbrooke** / **INSA Lyon**, *2020-2024*  
+Supervisors: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html), [Olivier Bernard](https://www.creatis.insa-lyon.fr/~bernard/index.html), [Nicolas Duchateau](https://www.creatis.insa-lyon.fr/~duchateau/)  
+[Link to thesis manuscript](http://hdl.handle.net/11143/21647) | [Link to thesis defense recording]( https://youtu.be/jqbe2wLzJYU)
 
 * *M.Sc. in Computer Science*, **Université de Sherbrooke**, *2019-*  
 Supervisor: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html)
