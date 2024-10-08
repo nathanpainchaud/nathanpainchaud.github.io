@@ -25,13 +25,31 @@ redirect_from:
 Education
 ======
 * *Ph.D. in Computer Science* (cotutelle), **Université de Sherbrooke** / **INSA Lyon**, *2020-2024*  
-Supervisors: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html), [Olivier Bernard](https://www.creatis.insa-lyon.fr/~bernard/index.html), [Nicolas Duchateau](https://www.creatis.insa-lyon.fr/~duchateau/)  
+**Subject**: Deep manifold learning for improved high blood pressure characterization using echocardiography  
+**Supervisors**: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html), [Olivier Bernard](https://www.creatis.insa-lyon.fr/~bernard/index.html), [Nicolas Duchateau](https://www.creatis.insa-lyon.fr/~duchateau/)  
 [Link to thesis manuscript](http://hdl.handle.net/11143/21647) | [Link to thesis defense recording]( https://youtu.be/jqbe2wLzJYU)
 
 * *M.Sc. in Computer Science*, **Université de Sherbrooke**, *2019-*  
-Supervisor: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html)
+**Subject**: Segmentation of MRI and ultrasound cardiac medical images with anatomical guarantees  
+**Supervisor**: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html)
 
 * *B.Sc. in Computer Science*, **Université de Sherbrooke**, *2016-2019*
+
+&nbsp;
+
+Work Experience
+======
+* *Postdoctoral researcher*, **[CREATIS](https://www.creatis.insa-lyon.fr/site7/en) (INSA Lyon)** / **[LIX](https://www.lix.polytechnique.fr) (École polytechnique)** / **[ICube](https://icube.unistra.fr) (Université de Strasbourg)**, *2024-*  
+**Subject**: Multimodal learning on graphs and clinical data for pulmonary embolism risk stratification models
+**Supervisors**: [Odyssée Merveille](https://www.creatis.insa-lyon.fr/~merveille/), [Johannes Lutzeyer](https://johanneslutzeyer.com), [Thomas Lampert](https://sites.google.com/site/tomalampert/home)
+
+* *Invited student researcher*, **[CREATIS](https://www.creatis.insa-lyon.fr/site7/en)**, *Summer 2019*  
+**Subject**: Generalizing an anatomically-consistent segmentation method, first developed for cardiac cine-MRI, to echocardiography  
+**Supervisor**: [Olivier Bernard](https://www.creatis.insa-lyon.fr/~bernard/index.html)
+
+<!-- * *Backend developer (Intern)*, **[GRIIS](https://griis.ca) (Interdisciplinary Research Group in Health Informatics)**, *Summer 2018*  
+**Subject**: Specifying and validating software requirements, design and test-driven implementation of internal APIs  
+**Supervisor**: [Luc Lavoie](http://info.usherbrooke.ca/llavoie/) -->
 
 &nbsp;
 
@@ -127,42 +145,23 @@ Teaching
 
 &nbsp;
 
-Work Experience
-======
-* *Summer 2019*: **[CREATIS](https://www.creatis.insa-lyon.fr/site7/en) (Biomedical imaging research laboratory)**  
-*Invited student researcher*  
-Supervisor: [Olivier Bernard](https://www.creatis.insa-lyon.fr/~bernard/index.html)
-  * **Duties included**: Generalizing an anatomically-consistent segmentation method, first developed for cardiac cine-MRI, to echocardiography
-
-* *Summer 2018*: **[GRIIS](https://griis.ca) (Interdisciplinary Research Group in Health Informatics)**  
-*Backend developer* (Intern)  
-Supervisor: [Luc Lavoie](http://info.usherbrooke.ca/llavoie/)
-  * **Duties included**: Specifying and validating software requirements, design and test-driven implementation of internal APIs
-
-&nbsp;
-
 Service and Volunteer Work
 ======
-* *2021-2023*: **Université de Sherbrooke** / **École de technologie supérieure (ETS)** / **CREATIS**  
-*Hands-on Supervisor for the Deep Learning for Medical Imaging School*
-  * **Duties included**: Preparing administrative and scientific content (video tutorials, interactive exercises, etc.), organizing and moderating hands-on sessions
+* *Scientific committee*, **Deep Learning for Medical Imaging School (DLMI)**, *2021-*  
+**Partner institutions**: *CREATIS*, *Université de Sherbrooke*, *École de technologie supérieure (ETS)*  
+**Duties included**: Deciding on the program of the school, preparing administrative and scientific content (video tutorials, interactive exercises, etc.), organizing and moderating hands-on sessions
 
-* *June 2023*: **Functional Imaging and Modeling of the Heart (FIMH)**  
-*Student volunteer for the organization of the conference*
-  * **Duties included**: Administrative and manual labor during the conférence, such as: recording of keynote and oral presentations, setting up the venue, greeting attendees, etc.
+* *Volunteer for the conference*, **Functional Imaging and Modeling of the Heart (FIMH)**, *June 2023*  
+**Duties included**: Administrative and manual labor during the conférence, such as: recording of keynote and oral presentations, setting up the venue, greeting attendees, etc.
 
-* *2022*: **CREATIS**  
-*Organizer of the doctoral day for 3rd year Ph.D. students*
-  * **Duties included**: Communication with the participants (call for presentations, etc.), preparing the schedule, preparing the location and material (checking material for the presentations, testing auditorium setup, etc.), and coordinating the presentations on the day of
+* *Organizer of a doctoral symposium for Ph.D. students*, **CREATIS**, *2022*  
+**Duties included**: Communication with the participants (call for presentations, etc.), preparing the schedule, preparing the location and material (checking material for the presentations, testing auditorium setup, etc.), and coordinating the presentations on the day of
 
-* *2021-2022*: **Université de Sherbrooke**  
-*Scholarships applications support*
-  * **Duties included**: Helping graduate students prepare their scholarships applications
+* *Scholarships applications support*, **Université de Sherbrooke**, *2021-2022*  
+**Duties included**: Helping graduate students prepare their scholarships applications
 
-* *2020-2021*: **Université de Sherbooke**  
-*Medical imaging student committee*
-  * **Duties included**: Organizing events for the community of graduate students in medical imaging
+* *Medical imaging student committee*, **Université de Sherbooke**, *2020-2021*  
+**Duties included**: Organizing events for the community of graduate students in medical imaging
 
-* *2018-2021*: **Université de Sherbrooke**  
-*Student representative for promotional events*
-  * **Duties included**: Recruitment of prospective students
+* *Student representative for promotional events*, **Université de Sherbrooke**, *2018-2021*  
+**Duties included**: Recruitment of prospective students

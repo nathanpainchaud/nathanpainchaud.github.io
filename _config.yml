@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nathan Painchaud"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. in computer science"
+  bio              : "Postdoctoral researcher"
   location         : "Lyon (FR)"
   employer         : "CREATIS"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=f_NJWYsAAAAJ"
-  email            : "nathan.painchaud@usherbrooke.ca"
+  email            : "nathan.painchaud@creatis.insa-lyon.fr"
   researchgate     : "https://www.researchgate.net/profile/Nathan-Painchaud"
   uri              :
   bitbucket        :
