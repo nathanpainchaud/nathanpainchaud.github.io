@@ -55,6 +55,9 @@ Work Experience
 
 Scholarships & Awards
 ======
+* **Honor roll**, *October 2024*  
+*Université de Sherbrooke, Faculty of Science*
+
 * **Scientific distinction**, *December 2023*  
 *INSA Lyon*
 
@@ -77,7 +80,7 @@ Scholarships & Awards
 [*Fondation Arbour*](https://www.fondationarbour.com/en/)
 
 * **R3D Conseil inc. scholarship**, *2020*  
-*Université de Sherbrooke*
+*Université de Sherbrooke, Department of Computer Science*
 
 * **Alexander Graham Bell Canada Graduate Scholarship - Master's (CGS M)**, *2019-2020*  
 *Natural Sciences and Engineering Research Council of Canada* (NSERC)
@@ -92,7 +95,7 @@ Scholarships & Awards
 *Natural Sciences and Engineering Research Council of Canada* (NSERC)
 
 * [**Gérard-Houdeville award**, *2019*](https://www.usherbrooke.ca/informatique/actualites/prix-et-distinctions/mentions-excellence)  
-*Université de Sherbrooke*
+*Université de Sherbrooke, Department of Computer Science*
 
 &nbsp;
 
