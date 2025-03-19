@@ -16,6 +16,7 @@ redirect_from:
   - [Conference Papers](#conference-papers)
 - [Reviews](#reviews)
 - [Teaching](#teaching)
+  - [Seasonal Schools](#seasonal-schools)
   - [Teaching Assistant](#teaching-assistant)
 - [Work Experience](#work-experience)
 - [Service and Volunteer Work](#service-and-volunteer-work)
@@ -156,6 +157,14 @@ Reviewer for top-tier journals in artificial intelligence and medical imaging:
 Teaching
 ======
 
+## Seasonal Schools
+
+  <ul>{% for post in site.teaching reversed %}
+    {% if post.role == 'Schools' %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}</ul>
+
 ## Teaching Assistant
 
   <ul>{% for post in site.teaching reversed %}
@@ -168,10 +177,6 @@ Teaching
 
 Service and Volunteer Work
 ======
-* *Scientific committee*, **Deep Learning for Medical Imaging School (DLMI)**, *2021-*  
-**Partner institutions**: *CREATIS*, *Université de Sherbrooke*, *École de technologie supérieure (ETS)*  
-**Duties included**: Deciding on the program of the school, preparing administrative and scientific content (video tutorials, interactive exercises, etc.), organizing and moderating hands-on sessions
-
 * *Volunteer for the conference*, **Colloque Français d'Intelligence Artificielle en Imagerie Biomédicale (IABM)**, *March 2025*  
 **Duties included**: Administrative and manual labor during the conférence, such as: setting up the venue, greeting attendees, etc.
 
