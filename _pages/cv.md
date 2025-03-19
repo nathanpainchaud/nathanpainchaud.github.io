@@ -158,6 +158,9 @@ Service and Volunteer Work
 **Partner institutions**: *CREATIS*, *Université de Sherbrooke*, *École de technologie supérieure (ETS)*  
 **Duties included**: Deciding on the program of the school, preparing administrative and scientific content (video tutorials, interactive exercises, etc.), organizing and moderating hands-on sessions
 
+* *Volunteer for the conference*, **Colloque Français d'Intelligence Artificielle en Imagerie Biomédicale (IABM)**, *March 2025*  
+**Duties included**: Administrative and manual labor during the conférence, such as: setting up the venue, greeting attendees, etc.
+
 * *Volunteer for the conference*, **Functional Imaging and Modeling of the Heart (FIMH)**, *June 2023*  
 **Duties included**: Administrative and manual labor during the conférence, such as: recording of keynote and oral presentations, setting up the venue, greeting attendees, etc.
 
