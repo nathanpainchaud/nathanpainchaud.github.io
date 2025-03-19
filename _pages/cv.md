@@ -24,12 +24,12 @@ redirect_from:
 
 Education
 ======
-* *Ph.D. in Computer Science* (Joint Ph.D.), **Université de Sherbrooke** / **INSA Lyon**, *2020-2024*  
+* *Ph.D. in Computer Science* (Joint Ph.D.), **Université de Sherbrooke** / **INSA Lyon**, *Sept. 2020 - May 2024*  
 **Subject**: Deep manifold learning for improved high blood pressure characterization using echocardiography  
 **Supervisors**: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html), [Olivier Bernard](https://www.creatis.insa-lyon.fr/~bernard/index.html), [Nicolas Duchateau](https://www.creatis.insa-lyon.fr/~duchateau/)  
 [Link to thesis manuscript](http://hdl.handle.net/11143/21647) | [Link to thesis defense recording]( https://youtu.be/jqbe2wLzJYU)
 
-* *M.Sc. in Computer Science*, **Université de Sherbrooke**, *2019-*  
+* *M.Sc. in Computer Science*, **Université de Sherbrooke**, *May 2019 -*  
 **Subject**: Segmentation of MRI and ultrasound cardiac medical images with anatomical guarantees  
 **Supervisor**: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html)
 
@@ -37,13 +37,16 @@ Education
 
 &nbsp;
 
-Work Experience
+Professional Research Experience
 ======
-* *Postdoctoral researcher*, **[CREATIS](https://www.creatis.insa-lyon.fr/site7/en) (INSA Lyon)** / **[LIX](https://www.lix.polytechnique.fr) (École polytechnique)** / **[ICube](https://icube.unistra.fr) (Université de Strasbourg)**, *2024-*  
+* *Postdoctoral researcher*, **[CREATIS](https://www.creatis.insa-lyon.fr/site7/en) (INSA Lyon)** / **[LIX](https://www.lix.polytechnique.fr) (École polytechnique)** / **[ICube](https://icube.unistra.fr) (Université de Strasbourg)**, *Nov. 2024 - Present*  
 **Subject**: Multimodal learning on graphs and clinical data for pulmonary embolism risk stratification models
 **Supervisors**: [Odyssée Merveille](https://www.creatis.insa-lyon.fr/~merveille/), [Johannes Lutzeyer](https://johanneslutzeyer.com), [Thomas Lampert](https://sites.google.com/site/tomalampert/home)
 
-* *Invited student researcher*, **[CREATIS](https://www.creatis.insa-lyon.fr/site7/en)**, *Summer 2019*  
+* *Research Engineer*, **[CREATIS](https://www.creatis.insa-lyon.fr/site7/en) (INSA Lyon)**, *June-Aug. 2024*  
+**Objective**: Finalizing a research paper started during my thesis.
+
+* *Invited student researcher*, **[CREATIS](https://www.creatis.insa-lyon.fr/site7/en)**, *May-July 2019*  
 **Subject**: Generalizing an anatomically-consistent segmentation method, first developed for cardiac cine-MRI, to echocardiography  
 **Supervisor**: [Olivier Bernard](https://www.creatis.insa-lyon.fr/~bernard/index.html)
 
