@@ -61,46 +61,58 @@ Professional Research Experience
 Scholarships & Awards
 ======
 * **Honor roll**, *October 2024*  
-*Université de Sherbrooke, Faculty of Science*
+*Université de Sherbrooke, Faculty of Science*  
+Annual honor roll for graduate students at the Faculty of Science.
 
 * **Scientific distinction**, *December 2023*  
-*INSA Lyon*
+*INSA Lyon*  
+One (1) of 18 annual distinctions.
 
 * [**Louis-Berlinguet "Relève étoile" Award**, *April 2023*](https://frq.gouv.qc.ca/en/story-and-report/releve-etoile-louis-berlinguet-avril-2023/)  
-*Fonds de Recherche - Nature et Technologies* (FRQNT)
+*Fonds de Recherche - Nature et Technologies* (FRQNT)  
+One (1) award a month across Quebec for high-quality, high-impact publications by young researchers in/from Quebec.
 
-* [**Thesis funding**, *2022-2023*](https://primes.universite-lyon.fr/labex-primes/site-francais/navigation/recherche/wp-4-traitement-d-images-multidimensionnelles-/nathan-painchaud-2020-2023-apprentissage-profond-de-varietes-pour-une-meilleure-caracterisation-de-l-hypertension-arterielle-en-imagerie-echocardiographique-197031.kjsp)  
-[*LabEx PRIMES*](https://primes.universite-lyon.fr)
-
-* **Canada Graduate Scholarship – Doctorate (CGS D)**, *2021-2024*  
-*Natural Sciences and Engineering Research Council of Canada* (NSERC)
+* [**Thesis funding by competitive examination**, *2022-2023*](https://primes.universite-lyon.fr/labex-primes/site-francais/navigation/recherche/wp-4-traitement-d-images-multidimensionnelles-/nathan-painchaud-2020-2023-apprentissage-profond-de-varietes-pour-une-meilleure-caracterisation-de-l-hypertension-arterielle-en-imagerie-echocardiographique-197031.kjsp)  
+[*LabEx PRIMES*](https://primes.universite-lyon.fr)  
+52 thesis funded out of 100+ submitted proposals.
 
 * **Doctoral training scholarship**, *2021-2025*  
-*Fonds de Recherche - Nature et Technologies* (FRQNT)
+*Fonds de Recherche - Nature et Technologies* (FRQNT)  
+5th out of 31 candidates across Quebec that year.
 
-* [**Hydro-Québec merit scholarship** (declined), *2021-2024*](https://www.usherbrooke.ca/recherche/etudier/pourquoi-choisir-udes/programmes-bourses/excellence/titulaires/hiver-2021)  
-*Université de Sherbrooke*
+* **Canada Graduate Scholarship – Doctorate (CGS D)**, *2021-2024*  
+*Natural Sciences and Engineering Research Council of Canada* (NSERC)  
+39th out of 160 candidates across Canada that year.
+
+<!-- * [**Hydro-Québec merit scholarship** (declined), *2021-2024*](https://www.usherbrooke.ca/recherche/etudier/pourquoi-choisir-udes/programmes-bourses/excellence/titulaires/hiver-2021)  
+*Université de Sherbrooke* -->
 
 * **Scholarship for Doctoral level study**, *2020-2022*  
-[*Fondation Arbour*](https://www.fondationarbour.com/en/)
+[*Fondation Arbour*](https://www.fondationarbour.com/en/)  
+10% acceptance rate for this one-year private scholarship (2020-2021), renewable once (2021-2022).
 
-* **R3D Conseil inc. scholarship**, *2020*  
-*Université de Sherbrooke, Department of Computer Science*
-
-* **Alexander Graham Bell Canada Graduate Scholarship - Master's (CGS M)**, *2019-2020*  
-*Natural Sciences and Engineering Research Council of Canada* (NSERC)
+* **R3D Conseil inc. scholarship**, *Nov. 2020*  
+*Université de Sherbrooke, Department of Computer Science*  
+One (1) scholarship awarded each year by the Department of Computer Science.
 
 * **Master's training scholarship**, *2019-2021*  
-*Fonds de Recherche - Nature et Technologies* (FRQNT)
+*Fonds de Recherche - Nature et Technologies* (FRQNT)  
+1st out of 17 candidates across Quebec that year.
 
-* [**Graduate studies merit scholarship** (declined), *2019-2021*](https://www.usherbrooke.ca/recherche/etudier/pourquoi-choisir-udes/programmes-bourses/excellence/titulaires/hiver-2019)  
-*Université de Sherbrooke*
+* **Alexander Graham Bell Canada Graduate Scholarship - Master's (CGS M)**, *2019-2020*  
+*Natural Sciences and Engineering Research Council of Canada* (NSERC)  
+30% acceptance rate.
+
+<!-- * [**Graduate studies merit scholarship** (declined), *2019-2021*](https://www.usherbrooke.ca/recherche/etudier/pourquoi-choisir-udes/programmes-bourses/excellence/titulaires/hiver-2019)  
+*Université de Sherbrooke* -->
 
 * **Canada Graduate Scholarships – Michael Smith Foreign Study Supplements (CGS-MSFSS)**, *2019*  
-*Natural Sciences and Engineering Research Council of Canada* (NSERC)
+*Natural Sciences and Engineering Research Council of Canada* (NSERC)  
+50% acceptance rate within the CGS M laureates.
 
 * [**Gérard-Houdeville award**, *2019*](https://www.usherbrooke.ca/informatique/actualites/prix-et-distinctions/mentions-excellence)  
-*Université de Sherbrooke, Department of Computer Science*
+*Université de Sherbrooke, Department of Computer Science*  
+Undergraduate valedictorian for the B.Sc. in computer science.
 
 &nbsp;
 
