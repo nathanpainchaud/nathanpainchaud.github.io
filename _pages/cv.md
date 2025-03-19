@@ -25,6 +25,7 @@ redirect_from:
 Education
 ======
 * *Ph.D. in Computer Science* (Joint Ph.D.), **Université de Sherbrooke** / **INSA Lyon**, *Sept. 2020 - May 2024*  
+**Mention**: Summa cum laude  
 **Subject**: Deep manifold learning for improved high blood pressure characterization using echocardiography  
 **Supervisors**: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html), [Olivier Bernard](https://www.creatis.insa-lyon.fr/~bernard/index.html), [Nicolas Duchateau](https://www.creatis.insa-lyon.fr/~duchateau/)  
 [Link to thesis manuscript](http://hdl.handle.net/11143/21647) | [Link to thesis defense recording]( https://youtu.be/jqbe2wLzJYU)
@@ -33,7 +34,8 @@ Education
 **Subject**: Segmentation of MRI and ultrasound cardiac medical images with anatomical guarantees  
 **Supervisor**: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html)
 
-* *B.Sc. in Computer Science*, **Université de Sherbrooke**, *2016-2019*
+* *B.Sc. in Computer Science*, **Université de Sherbrooke**, *2016-2019*  
+**Mention**: Valedictorian
 
 &nbsp;
 
