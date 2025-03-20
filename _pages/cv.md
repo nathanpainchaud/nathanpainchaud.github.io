@@ -15,6 +15,7 @@ redirect_from:
   - [Journal Papers](#journal-papers)
   - [Conference Papers](#conference-papers)
 - [Reviews](#reviews)
+- [Talks](#talks)
 - [Teaching](#teaching)
   - [Seasonal Schools](#seasonal-schools)
   - [Teaching Assistant](#teaching-assistant)
@@ -29,7 +30,7 @@ Education
 **Mention**: Summa cum laude  
 **Subject**: Deep manifold learning for improved high blood pressure characterization using echocardiography  
 **Supervisors**: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html), [Olivier Bernard](https://www.creatis.insa-lyon.fr/~bernard/index.html), [Nicolas Duchateau](https://www.creatis.insa-lyon.fr/~duchateau/)  
-[Link to thesis manuscript](http://hdl.handle.net/11143/21647) | [Link to thesis defense recording]( https://youtu.be/jqbe2wLzJYU)
+[Link to thesis manuscript](http://hdl.handle.net/11143/21647) | [Link to thesis defense recording](https://youtu.be/jqbe2wLzJYU)
 
 * *M.Sc. in Computer Science*, **Université de Sherbrooke**, *May 2019 -*  
 **Subject**: Segmentation of MRI and ultrasound cardiac medical images with anatomical guarantees  
@@ -145,12 +146,14 @@ Reviewer for top-tier journals in artificial intelligence and medical imaging:
 * [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
 * [IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=58)
 * [Scientific Reports](https://www.nature.com/srep/)
+
+&nbsp;
   
-<!-- Talks
+Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
 
 &nbsp;
 
