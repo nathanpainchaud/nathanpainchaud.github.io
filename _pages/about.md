@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at [**CREATIS**](https://www.creatis.insa-lyon.fr/site7), at **INSA Lyon** (FR),
+I am currently a postdoctoral researcher at [**CREATIS**](https://www.creatis.insa-lyon.fr/site7), at **INSA Lyon** (France),
 where I work on multimodal learning on graphs and clinical data for pulmonary embolism risk stratification models.
 
-Prior to my post-doc, I obtained my joint Ph.D. between [VITAL](https://vitalab.github.io/), at the **Université de Sherbrooke** (CA),
+Prior to my post-doc, I obtained my joint Ph.D. between [VITAL](https://vitalab.github.io/), at the **Université de Sherbrooke** (Canada),
 and [**CREATIS**](https://www.creatis.insa-lyon.fr/site7), working on deep representation learning for cardiac medical image analysis.
 
 
