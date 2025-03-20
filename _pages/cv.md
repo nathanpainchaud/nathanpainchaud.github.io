@@ -30,7 +30,7 @@ Education
 **Mention**: Summa cum laude  
 **Subject**: Deep manifold learning for improved high blood pressure characterization using echocardiography  
 **Supervisors**: [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html), [Olivier Bernard](https://www.creatis.insa-lyon.fr/~bernard/index.html), [Nicolas Duchateau](https://www.creatis.insa-lyon.fr/~duchateau/)  
-[Link to thesis manuscript](http://hdl.handle.net/11143/21647) | [Link to thesis defense recording](https://youtu.be/jqbe2wLzJYU)
+Links to thesis manuscript: [Savoir UdeS](http://hdl.handle.net/11143/21647) | [HAL Theses](https://theses.hal.science/tel-04819640)
 
 * *M.Sc. in Computer Science*, **Université de Sherbrooke**, *May 2019 -*  
 **Subject**: Segmentation of MRI and ultrasound cardiac medical images with anatomical guarantees  
