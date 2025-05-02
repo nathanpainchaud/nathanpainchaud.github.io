@@ -1,8 +1,8 @@
 ---
 title: "Data structures"
 collection: teaching
+category: ta
 type: "Undergraduate course"
-role: TA
 permalink: /teaching/ta-ift339
 venue: "Université de Sherbrooke"
 start_date: 2018-01-01

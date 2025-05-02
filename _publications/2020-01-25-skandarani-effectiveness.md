@@ -1,8 +1,8 @@
 ---
 title: "On the effectiveness of GAN generated cardiac MRIs for segmentation"
 collection: publications
+category: conferences
 permalink: /publication/2020-01-25-skandarani-effectiveness
-type: proceedings
 date: 2020-01-25
 venue: 'Medical Imaging with Deep Learning (MIDL)'
 paperurl: 'https://openreview.net/forum?id=f9Pl3Qj3_Q'

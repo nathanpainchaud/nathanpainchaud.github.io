@@ -1,8 +1,8 @@
 ---
 title: "Deep Learning for Medical Imaging (DLMI)"
 collection: teaching
+category: schools
 type: "Spring/summer school"
-role: Schools
 permalink: /teaching/schools-dlmi
 venue: "INSA Lyon / École de technologie supérieure (ÉTS Montréal)"
 start_date: 2021-01-01

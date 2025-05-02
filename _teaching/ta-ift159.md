@@ -1,8 +1,8 @@
 ---
 title: "Analysis and programming"
 collection: teaching
+category: ta
 type: "Undergraduate course"
-role: TA
 permalink: /teaching/ta-ift159
 venue: "Université de Sherbrooke"
 start_date: 2018-08-01

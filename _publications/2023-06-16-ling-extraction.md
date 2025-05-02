@@ -1,8 +1,8 @@
 ---
 title: "Extraction of Volumetric Indices from Echocardiography: Which Deep Learning Solution for Clinical Use?"
 collection: publications
+category: conferences
 permalink: /publication/2023-06-16-ling-extraction
-type: proceedings
 date: 2023-06-16
 venue: 'Functional Imaging and Modeling of the Heart (FIMH)'
 paperurl: 'https://doi.org/10.1007/978-3-031-35302-4_25'

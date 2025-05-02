@@ -1,8 +1,8 @@
 ---
 title: "Neural networks"
 collection: teaching
+category: ta
 type: "Graduate course"
-role: TA
 permalink: /teaching/ta-ift780
 venue: "Université de Sherbrooke"
 start_date: 2020-01-01

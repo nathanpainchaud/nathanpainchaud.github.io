@@ -1,8 +1,8 @@
 ---
 title: "Compilers and interpreters"
 collection: teaching
+category: ta
 type: "Undergraduate course"
-role: TA
 permalink: /teaching/ta-ift3101
 venue: "Université Laval"
 start_date: 2021-08-01

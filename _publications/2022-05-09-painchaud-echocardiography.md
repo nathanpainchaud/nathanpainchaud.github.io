@@ -1,9 +1,9 @@
 ---
 title: "Echocardiography Segmentation With Enforced Temporal Consistency"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-05-09-painchaud-echocardiography
 date: 2022-05-09
-type: journal
 venue: 'IEEE Transactions on Medical Imaging (IEEE TMI)'
 paperurl: 'https://doi.org/10.1109/TMI.2022.3173669'
 citation: '<b>N. Painchaud</b>, N. Duchateau, O. Bernard, and P.-M. Jodoin, &quot;Echocardiography Segmentation With Enforced Temporal Consistency,&quot; <i>IEEE Transactions on Medical Imaging</i>, vol. 41, no. 10, pp. 2867–2878, Oct. 2022.'

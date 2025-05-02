@@ -1,8 +1,8 @@
 ---
 title: "Neural Teleportation"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-16-armenta-neural
-type: journal
 date: 2023-01-16
 venue: 'Mathematics'
 paperurl: 'https://doi.org/10.3390/math11020480'

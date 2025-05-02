@@ -1,8 +1,8 @@
 ---
 title: "Concurrent processes and parallelism"
 collection: teaching
+category: ta
 type: "Undergraduate course"
-role: TA
 permalink: /teaching/ta-ift630
 venue: "Université de Sherbrooke"
 start_date: 2021-01-01

@@ -14,7 +14,6 @@ where I work on multimodal learning on graphs and clinical data for pulmonary em
 Prior to my post-doc, I obtained my joint Ph.D. between [VITAL](https://vitalab.github.io/), at the **Université de Sherbrooke** (Canada),
 and [**CREATIS**](https://www.creatis.insa-lyon.fr/site7), working on deep representation learning for cardiac medical image analysis.
 
-
 <!-- Outside of research, I'm into cycling, working out and cooking (especially pastries). -->
 
 Research Interests

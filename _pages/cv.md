@@ -125,16 +125,16 @@ Undergraduate valedictorian for the B.Sc. in computer science.
 Publications
 ======
 
-## Journal Papers
+## Journal Articles
   <ul>{% for post in site.publications reversed %}
-    {% if post.type == 'journal' %}
+    {% if post.category == 'manuscripts' %}
       {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}</ul>
 
 ## Conference Papers
   <ul>{% for post in site.publications reversed %}
-    {% if post.type == 'proceedings' %}
+    {% if post.category == 'conferences' %}
       {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}</ul>
@@ -167,7 +167,7 @@ Teaching
 ## Seasonal Schools
 
   <ul>{% for post in site.teaching reversed %}
-    {% if post.role == 'Schools' %}
+    {% if post.category == 'schools' %}
       {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}</ul>
@@ -175,7 +175,7 @@ Teaching
 ## Teaching Assistant
 
   <ul>{% for post in site.teaching reversed %}
-    {% if post.role == 'TA' %}
+    {% if post.category == 'ta' %}
       {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}</ul>

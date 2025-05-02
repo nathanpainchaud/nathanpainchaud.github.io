@@ -1,8 +1,8 @@
 ---
 title: "Functional programming"
 collection: teaching
+category: ta
 type: "Undergraduate course"
-role: TA
 permalink: /teaching/ta-ift359
 venue: "Université de Sherbrooke"
 start_date: 2017-08-01
