@@ -66,7 +66,7 @@ Scholarships & Awards
 *Université de Sherbrooke, Faculty of Science*  
 Annual honor roll for graduate students at the Faculty of Science.
 
-* **Scientific distinction**, *December 2023*  
+* [**Scientific distinction**, *December 2023*](https://fr.linkedin.com/feed/update/urn:li:activity:7138793315134500864)  
 *INSA Lyon*  
 One (1) of 18 annual distinctions.
 
@@ -75,7 +75,7 @@ One (1) of 18 annual distinctions.
 One (1) award a month across Quebec for high-quality, high-impact publications by young researchers in/from Quebec.
 
 * [**Thesis funding by competitive examination**, *2022-2023*](https://primes.universite-lyon.fr/labex-primes/site-francais/navigation/recherche/wp-4-traitement-d-images-multidimensionnelles-/nathan-painchaud-2020-2023-apprentissage-profond-de-varietes-pour-une-meilleure-caracterisation-de-l-hypertension-arterielle-en-imagerie-echocardiographique-197031.kjsp)  
-[*LabEx PRIMES*](https://primes.universite-lyon.fr)  
+*LabEx PRIMES*  
 52 thesis funded out of 100+ submitted proposals.
 
 * **Doctoral training scholarship**, *2021-2025*  
@@ -90,7 +90,7 @@ One (1) award a month across Quebec for high-quality, high-impact publications b
 *Université de Sherbrooke* -->
 
 * **Scholarship for Doctoral level study**, *2020-2022*  
-[*Fondation Arbour*](https://www.fondationarbour.com/en/)  
+*Fondation Arbour*  
 10% acceptance rate for this one-year private scholarship (2020-2021), renewable once (2021-2022).
 
 * **R3D Conseil inc. scholarship**, *Nov. 2020*  
