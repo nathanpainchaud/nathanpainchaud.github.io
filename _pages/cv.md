@@ -62,6 +62,10 @@ Professional Research Experience
 
 Scholarships & Awards
 ======
+* [**Best Doctoral Thesis Award - Medicine and Health Sciences**, *April 2025*](https://www.usherbrooke.ca/recherche/fr/etudier/pourquoi-choisir-udes/reconnaissance-reussites-etudiantes/concours-diffusion-travaux/meilleure-these-doctorat)  
+*Université de Sherbrooke*  
+Annual award in each of the three major research areas: Natural sciences and engineering, health sciences and arts, and humanities and social sciences.
+
 * **Honor roll**, *October 2024*  
 *Université de Sherbrooke, Faculty of Science*  
 Annual honor roll for graduate students at the Faculty of Science.
