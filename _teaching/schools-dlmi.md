@@ -13,6 +13,24 @@ location: "Montréal (Québec, Canada) / Lyon (France)"
 - **Since 2025, as Scientific Committee Member**: Deciding the program and organizing the school, preparing and delivering 1-2 hours lectures.
 - **Since 2021, as Hands-on Manager**: Preparing administrative and scientific content (video tutorials, interactive exercises, etc.), organizing and moderating 4-hours hands-on sessions.
 
+## Lectures
+- [Attention and Transformers (2025)]({{ site.baseurl }}{% link _talks/2025-04-24-dlmi-lecture.md %})
+
+## Hands-on Sessions
+- Autoencoders (2021, 2023, 2025)
+    - Code repository: [https://github.com/vitalab/deep-learning-tutorials](https://github.com/vitalab/deep-learning-tutorials)
+    - Instructions and theoretical recap:
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHj_gL_1vkIceNTXZUxxUuTw7vyUpKmLBmrd56wzaXfbWrDkTMAGEoTduAIYGoLixK0uZXYJaMEgoy/embed?start=false&loop=false" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- Google embed ends -->
+</div>
+
+
 ## Editions
 
 ### Lyon
