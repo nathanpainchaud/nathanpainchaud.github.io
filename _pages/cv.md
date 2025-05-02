@@ -125,19 +125,26 @@ Undergraduate valedictorian for the B.Sc. in computer science.
 Publications
 ======
 
-## Journal Articles
-  <ul>{% for post in site.publications reversed %}
-    {% if post.category == 'manuscripts' %}
+{% if site.publication_category %}
+  {% for category in site.publication_category %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+<h2>{{ category[1].title }}</h2><ul>
+        {% assign title_shown = true %}
+      {% endunless %}
       {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %}</ul>
-
-## Conference Papers
+    {% endfor %}
+    {% if title_shown %}</ul>{% endif %}
+  {% endfor %}
+{% else %}
   <ul>{% for post in site.publications reversed %}
-    {% if post.category == 'conferences' %}
-      {% include archive-single-cv.html %}
-    {% endif %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endif %}
 
 &nbsp;
 
@@ -164,21 +171,26 @@ Talks
 Teaching
 ======
 
-## Seasonal Schools
-
-  <ul>{% for post in site.teaching reversed %}
-    {% if post.category == 'schools' %}
+{% if site.teaching_category %}
+  {% for category in site.teaching_category %}
+    {% assign title_shown = false %}
+    {% for post in site.teaching reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+<h2>{{ category[1].title }}</h2><ul>
+        {% assign title_shown = true %}
+      {% endunless %}
       {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %}</ul>
-
-## Teaching Assistant
-
+    {% endfor %}
+    {% if title_shown %}</ul>{% endif %}
+  {% endfor %}
+{% else %}
   <ul>{% for post in site.teaching reversed %}
-    {% if post.category == 'ta' %}
-      {% include archive-single-cv.html %}
-    {% endif %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endif %}
 
 &nbsp;
 
