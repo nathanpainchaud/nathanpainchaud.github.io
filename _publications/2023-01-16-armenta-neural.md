@@ -3,9 +3,11 @@ title: "Neural Teleportation"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-16-armenta-neural
+excerpt: 'We explore a process called neural teleportation, a mathematical consequence of applying quiver representation theory to neural networks.'
 date: 2023-01-16
 venue: 'Mathematics'
 paperurl: 'https://doi.org/10.3390/math11020480'
+bibtexurl: 'http://nathanpainchaud.github.io/files/armenta_neural_2023.bib'
 citation: 'M. Armenta, T. Judge, <b>N. Painchaud</b>, Y. Skandarani, C. Lemaire, G. G. Sanchez, P. Spino, and P.-M. Jodoin, &quot;Neural Teleportation,&quot; <i>Mathematics</i>, vol. 11, no. 2, pp. 480, Jan. 2023.'
 ---
 

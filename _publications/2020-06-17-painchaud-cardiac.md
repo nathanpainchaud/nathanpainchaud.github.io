@@ -3,9 +3,12 @@ title: "Cardiac Segmentation with Strong Anatomical Guarantees"
 collection: publications
 category: manuscripts
 permalink: /publication/2020-06-17-painchaud-cardiac
+excerpt: 'In this paper, we present a framework for producing cardiac image segmentation maps that are guaranteed to respect pre-defined anatomical criteria, while remaining within the inter-expert variability.'
 date: 2020-06-17
 venue: 'IEEE Transactions on Medical Imaging (IEEE TMI)'
+slidesurl: 'http://nathanpainchaud.github.io/files/painchaud_cardiac_2020_slides.pdf'
 paperurl: 'https://doi.org/10.1109/TMI.2020.3003240'
+bibtexurl: 'http://nathanpainchaud.github.io/files/painchaud_cardiac_2020.bib'
 citation: '<b>N. Painchaud</b>, Y. Skandarani, T. Judge, O. Bernard, A. Lalande, and P.-M. Jodoin, &quot;Cardiac Segmentation with Strong Anatomical Guarantees,&quot; <i>IEEE Transactions on Medical Imaging</i>, vol. 39, no. 11, pp. 3703–3713, Nov. 2020.'
 ---
 

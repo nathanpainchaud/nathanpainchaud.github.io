@@ -3,9 +3,12 @@ title: "Cardiac MRI Segmentation with Strong Anatomical Guarantees"
 collection: publications
 category: conferences
 permalink: /publication/2019-10-10-painchaud-cardiac
+excerpt: 'In this paper, we propose a cardiac MRI segmentation method which always produces anatomically plausible results.'
 date: 2019-10-10
 venue: 'Medical Image Computing and Computer Assisted Intervention (MICCAI)'
+slidesurl: 'http://nathanpainchaud.github.io/files/painchaud_cardiac_2020_slides.pdf'
 paperurl: 'https://doi.org/10.1007/978-3-030-32245-8_70'
+bibtexurl: 'http://nathanpainchaud.github.io/files/painchaud_cardiac_2019.bib'
 citation: '<b>N. Painchaud</b>, Y. Skandarani, T. Judge, O. Bernard, A. Lalande, and P.-M. Jodoin, &quot;Cardiac MRI Segmentation with Strong Anatomical Guarantees,&quot; in proc. <i>Medical Image Computing and Computer Assisted Intervention (MICCAI)</i>, 2019, pp. 632–640.'
 ---
 

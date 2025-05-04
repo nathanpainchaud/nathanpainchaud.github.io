@@ -3,9 +3,11 @@ title: "Extraction of Volumetric Indices from Echocardiography: Which Deep Learn
 collection: publications
 category: conferences
 permalink: /publication/2023-06-16-ling-extraction
+excerpt: 'We propose a comprehensive comparison between the current best performing methods in medical/echocardiographic image segmentation, with a particular focus on temporal consistency and cross-dataset aspects.'
 date: 2023-06-16
 venue: 'Functional Imaging and Modeling of the Heart (FIMH)'
 paperurl: 'https://doi.org/10.1007/978-3-031-35302-4_25'
+bibtexurl: 'http://nathanpainchaud.github.io/files/ling_extraction_2023.bib'
 citation: 'H. J. Ling, <b>N. Painchaud</b>, P.-Y. Courand, P.-M. Jodoin, D. Garcia, and O. Bernard, &quot;Extraction of Volumetric Indices from Echocardiography: Which Deep Learning Solution for Clinical Use?,&quot; in proc. <i>Functional Imaging and Modeling of the Heart (FIMH)</i>, 2023, pp. 245-254.'
 ---
 
