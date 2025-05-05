@@ -9,20 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-- [Education](#education)
-- [Scholarships & Awards](#scholarships--awards)
-- [Publications](#publications)
-  - [Journal Papers](#journal-papers)
-  - [Conference Papers](#conference-papers)
-- [Reviews](#reviews)
-- [Talks](#talks)
-- [Teaching](#teaching)
-  - [Seasonal Schools](#seasonal-schools)
-  - [Teaching Assistant](#teaching-assistant)
-- [Work Experience](#work-experience)
-- [Service and Volunteer Work](#service-and-volunteer-work)
-
-&nbsp;
+{% include toc %}
 
 Education
 ======
