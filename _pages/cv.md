@@ -28,6 +28,13 @@ Links to thesis manuscript: [Savoir UdeS](http://hdl.handle.net/11143/21647) | [
 
 &nbsp;
 
+Qualifications
+======
+* *Assistant professor qualification*, **Conseil National des Universités (CNU)**, *2025-2029*  
+Sections 27 (Computer science) and 61 (Computer engineering, automation and signal processing)
+
+&nbsp;
+
 Professional Research Experience
 ======
 * *Postdoctoral researcher*, **[CREATIS](https://www.creatis.insa-lyon.fr/site7/en) (INSA Lyon)** / **[LIX](https://www.lix.polytechnique.fr) (École polytechnique)** / **[ICube](https://icube.unistra.fr) (Université de Strasbourg)**, *Nov. 2024 - Present*  
