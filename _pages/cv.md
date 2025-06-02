@@ -76,7 +76,7 @@ One (1) award a month across Quebec for high-quality, high-impact publications b
 *LabEx PRIMES*  
 52 thesis funded out of 100+ submitted proposals.
 
-* **Doctoral training scholarship**, *2021-2025*  
+* [**Doctoral training scholarship**, *2021-2025*](https://doi.org/10.69777/297857)  
 *Fonds de Recherche - Nature et Technologies* (FRQNT)  
 5th out of 31 candidates across Quebec that year.
 
@@ -95,7 +95,7 @@ One (1) award a month across Quebec for high-quality, high-impact publications b
 *Université de Sherbrooke, Department of Computer Science*  
 One (1) scholarship awarded each year by the Department of Computer Science.
 
-* **Master's training scholarship**, *2019-2021*  
+* [**Master's training scholarship**, *2019-2021*](https://doi.org/10.69777/268273)  
 *Fonds de Recherche - Nature et Technologies* (FRQNT)  
 1st out of 17 candidates across Quebec that year.
 
