@@ -2,9 +2,9 @@
 title: "On the effectiveness of GAN generated cardiac MRIs for segmentation"
 collection: publications
 category: conferences
-permalink: /publication/2020-01-25-skandarani-effectiveness
+permalink: /publication/2020-04-18-skandarani-effectiveness
 excerpt: 'In this work, we propose a Variational Autoencoder (VAE) - Generative Adversarial Networks (GAN) model that can produce highly realistic MRI together with its pixel accurate groundtruth for the application of cine-MR image cardiac segmentation.'
-date: 2020-01-25
+date: 2020-04-18
 venue: 'Medical Imaging with Deep Learning (MIDL)'
 paperurl: 'https://openreview.net/forum?id=f9Pl3Qj3_Q'
 bibtexurl: 'http://nathanpainchaud.github.io/files/skandarani_effectiveness_2020.bib'
