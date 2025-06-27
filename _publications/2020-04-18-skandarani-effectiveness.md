@@ -7,7 +7,7 @@ excerpt: 'In this work, we propose a Variational Autoencoder (VAE) - Generative 
 date: 2020-04-18
 venue: 'Medical Imaging with Deep Learning (MIDL)'
 paperurl: 'https://openreview.net/forum?id=f9Pl3Qj3_Q'
-bibtexurl: 'http://nathanpainchaud.github.io/files/skandarani_effectiveness_2020.bib'
+bibtexurl: '/files/skandarani_effectiveness_2020.bib'
 citation: 'Y. Skandarani, <b>N. Painchaud</b>, P.-M. Jodoin, and A. Lalande, &quot;On the effectiveness of GAN generated cardiac MRIs for segmentation,&quot; presented at <i>Medical Imaging with Deep Learning (MIDL)</i>, 2020.'
 ---
 

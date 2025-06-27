@@ -7,7 +7,7 @@ excerpt: 'Drawing on novel transformer models applied to tabular data (e.g. vari
 date: 2024-04-27
 venue: 'Medical Imaging with Deep Learning (MIDL)'
 paperurl: 'https://openreview.net/forum?id=atsESsgxPa'
-bibtexurl: 'http://nathanpainchaud.github.io/files/painchaud_fusing_2024.bib'
+bibtexurl: '/files/painchaud_fusing_2024.bib'
 citation: '<b>N. Painchaud</b>, P.-Y. Courand, P.-M. Jodoin, N. Duchateau, and O. Bernard, &quot;Fusing Echocardiography Images and Medical Records for Continuous Patient Stratification,&quot; presented at <i>Medical Imaging with Deep Learning (MIDL)</i>, 2024.'
 ---
 

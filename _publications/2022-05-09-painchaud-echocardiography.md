@@ -6,9 +6,9 @@ permalink: /publication/2022-05-09-painchaud-echocardiography
 excerpt: 'In this paper, we propose a framework to learn the 2D+time apical long-axis cardiac shape such that the segmented sequences can benefit from temporal and anatomical consistency constraints.'
 date: 2022-05-09
 venue: 'IEEE Transactions on Medical Imaging (IEEE TMI)'
-slidesurl: 'http://nathanpainchaud.github.io/files/painchaud_echocardiography_2022_slides.pdf'
+slidesurl: '/files/painchaud_echocardiography_2022_slides.pdf'
 paperurl: 'https://doi.org/10.1109/TMI.2022.3173669'
-bibtexurl: 'http://nathanpainchaud.github.io/files/painchaud_cardiac_2020.bib'
+bibtexurl: '/files/painchaud_cardiac_2020.bib'
 citation: '<b>N. Painchaud</b>, N. Duchateau, O. Bernard, and P.-M. Jodoin, &quot;Echocardiography Segmentation With Enforced Temporal Consistency,&quot; <i>IEEE Transactions on Medical Imaging</i>, vol. 41, no. 10, pp. 2867–2878, Oct. 2022.'
 ---
 
