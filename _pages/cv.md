@@ -185,25 +185,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 {% endif %}
-
-&nbsp;
-
-Service and Volunteer Work
-======
-* *Volunteer for the conference*, **Colloque Français d'Intelligence Artificielle en Imagerie Biomédicale (IABM)**, *March 2025*  
-**Duties included**: Administrative and manual labor during the conférence, such as: setting up the venue, greeting attendees, etc.
-
-* *Volunteer for the conference*, **Functional Imaging and Modeling of the Heart (FIMH)**, *June 2023*  
-**Duties included**: Administrative and manual labor during the conférence, such as: recording of keynote and oral presentations, setting up the venue, greeting attendees, etc.
-
-* *Organizer of a doctoral symposium for Ph.D. students*, **CREATIS**, *2022*  
-**Duties included**: Communication with the participants (call for presentations, etc.), preparing the schedule, preparing the location and material (checking material for the presentations, testing auditorium setup, etc.), and coordinating the presentations on the day of
-
-* *Scholarships applications support*, **Université de Sherbrooke**, *2021-2022*  
-**Duties included**: Helping graduate students prepare their scholarships applications
-
-* *Medical imaging student committee*, **Université de Sherbooke**, *2020-2021*  
-**Duties included**: Organizing events for the community of graduate students in medical imaging
-
-* *Student representative for promotional events*, **Université de Sherbrooke**, *2018-2021*  
-**Duties included**: Recruitment of prospective students
