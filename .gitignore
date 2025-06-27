@@ -16,5 +16,8 @@ package-lock.json
 vendor/
 .bundle/
 
+# Ignore folders related to IDEs
+.vscode/
+
 # Ignore rbenv config
 .ruby-version
