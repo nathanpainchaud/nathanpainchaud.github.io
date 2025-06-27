@@ -22,13 +22,13 @@ Research Interests
 ### Methodology
 * Representation learning
 * Multimodal learning
+* Graph learning
 * Neural networks interpretability
-* Mathematical properties of neural networks
 
 ### Applications
-* (Cardiac) medical image analysis
-* Population representation
+* Quantitative medical image analysis
 * Multimodal medical data fusion
+* Population representation
 
 Education & Work Experience
 ======
