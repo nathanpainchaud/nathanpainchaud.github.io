@@ -30,9 +30,9 @@ Research Interests
 * Multimodal medical data fusion
 * Population representation
 
-Education & Work Experience
+Education & Research Experience
 ======
-* *Postdoctoral researcher*, **[CREATIS](https://www.creatis.insa-lyon.fr/site7/en) (Lyon)** / **[LIX](https://www.lix.polytechnique.fr) (Paris)** / **[ICube](https://icube.unistra.fr) (Strasbourg)**, *2024-*
+* *Postdoctoral researcher*, **[CREATIS](https://www.creatis.insa-lyon.fr/site7/en) (Lyon)**, *2024-*
 * *Ph.D. in Computer science* (Joint Ph.D.), **Université de Sherbrooke** / **INSA Lyon**, *2020-2024*
 * *M.Sc. in Computer Science*, **Université de Sherbrooke**, *2019-*
 * *B.Sc. in Computer Science*, **Université de Sherbrooke**, *2016-2019*
