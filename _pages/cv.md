@@ -17,7 +17,7 @@ Education & Research Experience
 Sections 27 (Computer science) and 61 (Computer engineering, automation and signal processing)
 
 * *Postdoctoral researcher*, **[CREATIS](https://www.creatis.insa-lyon.fr/site7/en) (INSA Lyon)**, *Nov. 2024 - Present*  
-**Subject**: Multimodal learning on graphs and clinical data for pulmonary embolism risk stratification models
+**Subject**: Multimodal learning on graphs and clinical data for pulmonary embolism risk stratification models  
 **Supervisors**: [Odyssée Merveille](https://www.creatis.insa-lyon.fr/~merveille/), [Johannes Lutzeyer](https://johanneslutzeyer.com), [Thomas Lampert](https://sites.google.com/site/tomalampert/home)
 
 * *Research Engineer*, **[CREATIS](https://www.creatis.insa-lyon.fr/site7/en) (INSA Lyon)**, *June-Aug. 2024*  
