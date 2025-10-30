@@ -34,11 +34,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a junior researcher working on applications of AI to healthcare data. I am mostly interested in how to combine the complex multimodal data, especially the rich imaging data, to improve disease characterization.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        From my background in computer science, I've also kept a strong interest in the technical side of things. I try my best to be active on GitHub and to contribute to the open-source projects that I use, either professionally or personally.
 
-        Please reach out to collaborate 😃
+        Don't hesitate to reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection

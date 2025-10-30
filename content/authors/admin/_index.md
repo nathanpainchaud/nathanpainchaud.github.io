@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Nathan Painchaud
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Nathan
+last_name: Painchaud
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  # icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,83 +23,109 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: CREATIS (INSA Lyon)
+    url: https://www.creatis.insa-lyon.fr/site/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: 'mailto:nathan.painchaud@insa-lyon.fr'
+    label: E-mail me
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/nathanpainchaud
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/nathanpainchaud/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=f_NJWYsAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-8269-5704
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Representation Learning
+  - Graph Learning
+  - Population Representation
+  - Quantitative Medical Image Analysis
+  - Multimodal Medical Data Fusion
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Assistant Professor Qualification
+    institution: Conseil National des Universités (CNU)
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2025-03-14
+    date_end: 2029-12-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Qualified for sections:
+      * 27 (Computer science)
+      * 61 (Computer engineering, automation and signal processing)
+  - area: Ph.D. Computer Science (Joint Supervision)
+    institution: Université de Sherbrooke (Canada) / INSA Lyon (France)
+    icon: ""
+    date_start: 2020-09-01
+    date_end: 2024-05-06
+    summary: |
+      Thesis on _Deep manifold learning for improved high blood pressure characterization using echocardiography_.
+
+      Advisors:
+      * [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html) (Full Professor -- Université de Sherbrooke)
+      * [Olivier Bernard](https://www.creatis.insa-lyon.fr/~bernard/index.html) (Full Professor -- INSA Lyon)
+      * [Nicolas Duchateau](https://www.creatis.insa-lyon.fr/~duchateau/) (Associate Professor -- Université Lyon 1)
+      
+      Mention: _Summa cum laude_
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      text: 'Read Thesis (Savoir UdeS)'
+      url: 'http://hdl.handle.net/11143/21647'
+    # TODO: Find how to have more than one button
+    # button:
+    #   text: 'Read Thesis (French version)'
+    #   url: 'https://theses.hal.science/tel-04819640'
+  - area: M.Sc. Computer Science
+    institution: Université de Sherbrooke (Canada)
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2019-05-01
+    date_end: 2020-08-31
     summary: |
-      GPA: 4.0/4.0
+      Unfinished due to skipping to Ph.D in September 2020.
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Subject on _Segmentation of MRI and ultrasound cardiac medical images with anatomical guarantees_.
+
+      Advisor:
+      * [Pierre-Marc Jodoin](https://info.usherbrooke.ca/pmjodoin/index.html) (Full Professor -- Université de Sherbrooke)
+  - area: B.Sc. Computer Science
+    institution: Université de Sherbrooke (Canada)
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2016-01-01
+    date_end: 2019-04-30
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Valedictorian (GPA: 4.28/4.3)
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Postdoctoral Researcher
+    company_name: CREATIS (INSA Lyon)
+    company_url: 'https://www.creatis.insa-lyon.fr/site/en'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2024-11-04
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Research on _Multimodal learning on graphs and clinical data for pulmonary embolism risk stratification models_.
+
+      Advisors:
+      * [Odyssée Merveille](https://www.creatis.insa-lyon.fr/~merveille/) (Associate Professor -- INSA Lyon)
+      * [Johannes Lutzeyer](https://johanneslutzeyer.com/) (Associate Professor -- École Polytechnique)
+      * [Thomas Lampert](https://sites.google.com/site/tomalampert/home) (Chair of Data Science and Artificial Intelligence -- Université de Strasbourg)
+
+  - position: Research Engineer
+    company_name: CREATIS (INSA Lyon)
+    company_url: 'https://www.creatis.insa-lyon.fr/site/en'
+    icon: ''
+    date_start: 2024-06-01
+    date_end: 2024-08-31
+    summary: |
+      Finalized a research paper started during my thesis.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -108,65 +134,78 @@ skills:
     items:
       - name: Python & PyTorch
         description: ''
-        percent: 95
+        # percent: 95
         icon: code-bracket
       - name: Machine Learning
         description: ''
-        percent: 100
+        # percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+    # TODO: Use icon packs rather than pre-downloaded assets
+    # TODO: Automtically switch icon style to be consistent with light/dark theme
+      - name: Working Out
         description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        # percent: 80
+        icon: custom/dumbbell-solid-full
+      - name: Cycling
         description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
+        # percent: 90
+        icon: custom/bicycle-solid-full
+      - name: Cooking
         description: ''
-        percent: 70
-        icon: book-open
+        # percent: 70
+        icon: custom/kitchen-set-solid-full
 
 languages:
-  - name: English
+  - name: French
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: English
+    percent: 90
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Best Doctoral Thesis Award - Medicine and Health Sciences
+    url: https://www.usherbrooke.ca/recherche/fr/etudier/pourquoi-choisir-udes/reconnaissance-reussites-etudiantes/concours-diffusion-travaux/meilleure-these-doctorat
+    date: '2025-04-30'
+    awarder: Université de Sherbrooke
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+      Annual award in each of the three major research areas: Natural sciences and engineering, health sciences and arts, and humanities and social sciences.
+  - title: Honor Roll
+    date: '2024-10-01'
+    awarder: Université de Sherbrooke, Faculty of Science
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Annual honor roll for graduate students at the Faculty of Science.
+  - title: Scientific Distinction
+    url: https://fr.linkedin.com/feed/update/urn:li:activity:7138793315134500864
+    date: '2023-12-01'
+    awarder: INSA Lyon
+    icon: hero/trophy
+    summary: |
+      One (1) of 18 annual distinctions.
+  - title: Louis-Berlinguet “Relève étoile” Award
+    url: https://frq.gouv.qc.ca/en/story-and-report/releve-etoile-louis-berlinguet-avril-2023/
+    date: '2023-04-01'
+    awarder: Fonds de Recherche - Nature et Technologies (FRQNT)
+    icon: hero/trophy
+    summary: |
+      One (1) award a month across Quebec for high-quality, high-impact publications by young researchers in/from Quebec.
+  - title: Gérard-Houdeville award
+    url: https://www.usherbrooke.ca/informatique/actualites/prix-et-distinctions/mentions-excellence
+    date: '2019-06-20'
+    awarder: Université de Sherbrooke, Department of Computer Science
+    icon: hero/academic-cap
+    summary: |
+      Undergraduate valedictorian for the B.Sc. in computer science.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am currently a postdoctoral researcher at the CREATIS laboratory (INSA Lyon, France), where I work on multimodal learning on graphs and clinical data for pulmonary embolism risk stratification models.
+
+Prior to my post-doc, I obtained my joint Ph.D. between the Université de Sherbrooke (Canada) and Institut National des Sciences Appliquées de Lyon (France), working on deep representation learning for cardiac medical image analysis.
