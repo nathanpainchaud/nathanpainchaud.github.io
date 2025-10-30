@@ -54,7 +54,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: ''
       filters:
         folders:
@@ -65,10 +65,10 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
-          - events
+          - talks
     design:
       view: card
   # - block: collection
