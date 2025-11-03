@@ -66,12 +66,15 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks
+      title: Featured Talks
       filters:
         folders:
           - talks
+        featured_only: true
+      count: 4
     design:
-      view: card
+      view: article-grid
+      columns: 2
   # - block: collection
   #   id: news
   #   content:
