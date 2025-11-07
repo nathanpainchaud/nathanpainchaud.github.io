@@ -42,26 +42,27 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: publications
     content:
       title: Featured Publications
       filters:
         folders:
           - publications
         featured_only: true
+      count: 4
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Publications
+  #     text: ''
+  #     filters:
+  #       folders:
+  #         - publications
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
   - block: collection
     id: talks
     content:
