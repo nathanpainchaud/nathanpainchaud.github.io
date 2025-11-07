@@ -1,22 +1,22 @@
 ---
-title: Courses
-summary: My courses
+title: Teaching
+summary: My teaching experience
 type: landing
 
 cascade:
   - target:
-      path: '{/courses/*/**}'
+      path: '{/teaching/*/**}'
     type: docs
     params:
       show_breadcrumb: true
 
 sections:
   - block: collection
-    id: courses
+    id: schools
     content:
-      title: Courses
+      title: Specialized Schools
       filters:
-        tag: Course
+        tag: Schools
         kinds:
           - section
     design:
@@ -25,4 +25,17 @@ sections:
       show_date: false
       show_read_more: false
       columns: 1
+
+  - block: collection
+    id: ta
+    content:
+      title: Teaching Assistant Positions
+      filters:
+        tag: TA
+      count: 10
+    design:
+      view: citation
+      show_read_time: false
+      show_date: false
+      show_read_more: false
 ---
