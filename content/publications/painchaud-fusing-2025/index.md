@@ -1,19 +1,29 @@
 ---
 title: Fusing Echocardiography Images and Medical Records for Continuous Patient Stratification
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
-- Nathan Painchaud
+- admin
 - Jérémie Stym-Popper
 - Pierre-Yves Courand
 - Nicolas Thome
 - Pierre-Marc Jodoin
 - Nicolas Duchateau
 - Olivier Bernard
-date: '2025-10-01'
-publishDate: '2025-11-11T16:47:31.259308Z'
-publication_types:
-- article-journal
+
+date: '2025-08-20'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
+
+# Publication name and optional abbreviated publication name.
 publication: '*IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control*'
-doi: 10.1109/TUFFC.2025.3600902
+publication_short: '*IEEE TUFFC*'
+
 abstract: 'Deep learning enables automatic and robust extraction of cardiac function
   descriptors from echocardiographic sequences, such as ejection fraction (EF) or
   strain. These descriptors provide fine-grained information that physicians consider,
@@ -36,24 +46,35 @@ abstract: 'Deep learning enables automatic and robust extraction of cardiac func
   patterns emerge in descriptors, some of which align with established physiological
   knowledge about hypertension, while others could pave the way for a more comprehensive
   understanding of this pathology. The code is available at https://github.com/creatis-myriad/didactic'
+
+# Summary. An optional shortened abstract.
+summary: Drawing on novel Transformer models applied to tabular data, we propose a method that considers all descriptors extracted from medical records and echocardiograms to learn the representation of a cardiovascular pathology with a difficult-to-characterize continuum.
+
 tags:
-- Deep learning
-- Training
-- Hypertension
-- Transformers
-- Feature extraction
-- representation learning
-- Data models
-- Data mining
+- Cardiac ultrasound
+- Health records
 - Pathology
 - Medical services
+- Hypertension
+- Multimodal
+- Deep learning
+- Representation learning
+- Data models
+- Transformers
 - Adaptation models
-- Cardiac ultrasound
-- health records
-- hypertension
-- multimodal
-- stratification
+- Feature extraction
+- Stratification
+
+# Display this page in the Featured widget?
+featured: true
+
+# Standard identifiers for auto-linking
+hugoblox:
+  ids:
+    doi: 10.1109/TUFFC.2025.3600902
 links:
-- name: URL
-  url: https://ieeexplore.ieee.org/abstract/document/11131320
+- type: pdf
+  url: https://arxiv.org/pdf/2401.07796v3
+- type: code
+  url: https://github.com/creatis-myriad/didactic
 ---

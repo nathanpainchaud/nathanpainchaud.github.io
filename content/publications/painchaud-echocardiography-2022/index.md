@@ -1,16 +1,26 @@
 ---
 title: Echocardiography Segmentation With Enforced Temporal Consistency
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
-- Nathan Painchaud
+- admin
 - Nicolas Duchateau
 - Olivier Bernard
 - Pierre-Marc Jodoin
-date: '2022-10-01'
-publishDate: '2025-11-11T16:47:31.235667Z'
-publication_types:
-- article-journal
+
+date: '2022-05-09'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
+
+# Publication name and optional abbreviated publication name.
 publication: '*IEEE Transactions on Medical Imaging*'
-doi: 10.1109/TMI.2022.3173669
+publication_short: '*IEEE TMI*'
+
 abstract: Convolutional neural networks (CNN) have demonstrated their ability to segment
   2D cardiac ultrasound images. However, despite recent successes according to which
   the intra-observer variability on end-diastole and end-systole images has been reached,
@@ -30,19 +40,35 @@ abstract: Convolutional neural networks (CNN) have demonstrated their ability to
   paper. Our temporal regularization method not only improves the accuracy of the
   segmentation across the whole sequences, but also enforces temporal and anatomical
   consistency.
+
+# Summary. An optional shortened abstract.
+summary: In this paper, we propose a framework to learn the 2D+time apical long-axis cardiac shape such that the segmented sequences can benefit from temporal and anatomical consistency constraints.
+
 tags:
-- Echocardiography
-- Image segmentation
-- CNN
 - Deep learning
-- ultrasound
-- Shape
-- Magnetic resonance imaging
-- cardiac segmentation
-- variational autoencoder
-- myocardium
-- left ventricle
-- Annotations
-- Cardiac function
+- CNN
 - Encoding
+- Variational autoencoder
+- Annotations
+- Image segmentation
+- Cardiac segmentation
+- Ultrasound
+- Echocardiography
+- Cardiac function
+- Left ventricle
+- Myocardium
+- Shape
+
+# Display this page in the Featured widget?
+featured: true
+
+# Standard identifiers for auto-linking
+hugoblox:
+  ids:
+    doi: 10.1109/TMI.2022.3173669
+links:
+- type: pdf
+  url: https://arxiv.org/pdf/2112.02102v2
+- type: code
+  url: https://github.com/vitalab/castor
 ---

@@ -1,19 +1,28 @@
 ---
 title: Cardiac MRI Segmentation with Strong Anatomical Guarantees
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
-- Nathan Painchaud
+- admin
 - Youssef Skandarani
 - Thierry Judge
 - Olivier Bernard
 - Alain Lalande
 - Pierre-Marc Jodoin
-date: '2019-01-01'
-publishDate: '2025-11-11T16:47:31.217602Z'
-publication_types:
-- paper-conference
-publication: '*Medical Image Computing and Computer Assisted Intervention – MICCAI
-  2019*'
-doi: 10.1007/978-3-030-32245-8_70
+
+date: '2019-10-10'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["paper-conference"]
+
+# Publication name and optional abbreviated publication name.
+publication: in proc. *Medical Image Computing and Computer Assisted Intervention (MICCAI)*
+publication_short: '*MICCAI*'
+
 abstract: Recent publications have shown that the segmentation accuracy of modern-day
   convolutional neural networks (CNN) applied on cardiac MRI can reach the inter-expert
   variability, a great achievement in this area of research. However, despite these
@@ -28,8 +37,20 @@ abstract: Recent publications have shown that the segmentation accuracy of moder
   implausible results to plausible ones without affecting its overall geometric and
   clinical metrics. With our method, CNNs can now produce results that are both within
   the inter-expert variability and always anatomically plausible.
+
+# Summary. An optional shortened abstract.
+summary: In this paper, we propose a cardiac MRI segmentation method which always produces anatomically plausible results.
+
 tags:
 - Cardiac MRI segmentation
 - CNN
 - Variational autoencoder
+
+# Standard identifiers for auto-linking
+hugoblox:
+  ids:
+    doi: 10.1007/978-3-030-32245-8_70
+links:
+- type: pdf
+  url: https://arxiv.org/pdf/1907.02865v2
 ---

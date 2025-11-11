@@ -1,19 +1,28 @@
 ---
-title: 'Extraction of Volumetric Indices from Echocardiography: Which Deep Learning
-  Solution for Clinical Use?'
+title: 'Extraction of Volumetric Indices from Echocardiography: Which Deep Learning Solution for Clinical Use?'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - Hang Jung Ling
-- Nathan Painchaud
+- admin
 - Pierre-Yves Courand
 - Pierre-Marc Jodoin
 - Damien Garcia
 - Olivier Bernard
-date: '2023-01-01'
-publishDate: '2025-11-11T16:47:31.251528Z'
-publication_types:
-- paper-conference
-publication: '*Functional Imaging and Modeling of the Heart*'
-doi: 10.1007/978-3-031-35302-4_25
+
+date: '2023-06-16'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["paper-conference"]
+
+# Publication name and optional abbreviated publication name.
+publication: in proc. *Functional Imaging and Modeling of the Heart*
+publication_short: '*FIMH*'
+
 abstract: Deep learning-based methods have spearheaded the automatic analysis of echocardiographic
   images, taking advantage of the publication of multiple open access datasets annotated
   by experts (CAMUS being one of the largest public databases). However, these models
@@ -30,10 +39,24 @@ abstract: Deep learning-based methods have spearheaded the automatic analysis of
   Overall, the experimental results suggest that with sufficient training data, 3D
   nnU-Net could become the first automated tool to finally meet the standards of an
   everyday clinical device.
+
+# Summary. An optional shortened abstract.
+summary: We propose a comprehensive comparison between the current best performing methods in medical/echocardiographic image segmentation, with a particular focus on temporal consistency and cross-dataset aspects.
+
 tags:
 - CNN
-- deep learning
+- Deep learning
 - Ultrasound
-- cardiac segmentation
-- temporal segmentation
+- Cardiac segmentation
+- Temporal segmentation
+
+# Standard identifiers for auto-linking
+hugoblox:
+  ids:
+    doi: 10.1007/978-3-031-35302-4_25
+links:
+- type: pdf
+  url: https://arxiv.org/pdf/2305.01997v2
+- type: code
+  url: https://github.com/creatis-myriad/ASCENT
 ---
