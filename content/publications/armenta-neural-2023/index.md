@@ -1,20 +1,34 @@
 ---
 title: Neural Teleportation
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - Marco Armenta
 - Thierry Judge
-- Nathan Painchaud
+- admin
 - Youssef Skandarani
 - Carl Lemaire
 - Gabriel Gibeau Sanchez
 - Philippe Spino
 - Pierre-Marc Jodoin
-date: '2023-01-01'
-publishDate: '2025-11-11T16:47:31.243769Z'
-publication_types:
-- article-journal
+
+# Author notes (optional)
+author_notes:
+- 'Equal contribution'
+- 'Equal contribution'
+
+date: '2023-01-16'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
+
+# Publication name and optional abbreviated publication name.
 publication: '*Mathematics*'
-doi: 10.3390/math11020480
+
 abstract: In this paper, we explore a process called neural teleportation, a mathematical
   consequence of applying quiver representation theory to neural networks. Neural
   teleportation teleports a network to a new position in the weight space and preserves
@@ -25,11 +39,22 @@ abstract: In this paper, we explore a process called neural teleportation, a mat
   that teleportation can be used to explore loss level curves, that it changes the
   local loss landscape, sharpens global minima and boosts back-propagated gradients
   at any moment during the learning process.
+
+# Summary. An optional shortened abstract.
+summary: We explore a process called neural teleportation, a mathematical consequence of applying quiver representation theory to neural networks.
+
 tags:
-- neural networks
-- quiver representations
-- teleportation
+- Neural networks
+- Quiver representations
+- Teleportation
+
+# Standard identifiers for auto-linking
+hugoblox:
+  ids:
+    doi: 10.3390/math11020480
 links:
-- name: URL
-  url: https://www.mdpi.com/2227-7390/11/2/480
+- type: pdf
+  url: https://www.mdpi.com/2227-7390/11/2/480/pdf
+- type: code
+  url: https://github.com/vitalab/neuralteleportation
 ---
