@@ -7,12 +7,15 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Publications
+  - name: Featured Work
     url: /#publications
     weight: 11
-  - name: Talks
-    url: /#talks
+  - name: Publications
+    url: /publications
     weight: 12
+  - name: Talks
+    url: /talks
+    weight: 13
   - name: Resume
     url: resume/
     weight: 20
