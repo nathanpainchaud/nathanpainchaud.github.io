@@ -170,6 +170,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: France-Quebec Joint Thesis Award
+    url: https://www.linkedin.com/feed/update/urn:li:activity:7397684748359258112
+    date: '2025-11-20'
+    awarder: Ministry of International Relations and La Francophonie of Quebec
+    icon: hero/trophy
+    summary: |
+      Annual laureate from Quebec: Best thesis produced within the framework of a Franco-Quebec joint thesis supervision agreement.
   - title: Best Doctoral Thesis Award - Medicine and Health Sciences
     url: https://www.usherbrooke.ca/recherche/fr/etudier/pourquoi-choisir-udes/reconnaissance-reussites-etudiantes/concours-diffusion-travaux/meilleure-these-doctorat
     date: '2025-04-30'
