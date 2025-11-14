@@ -20,7 +20,7 @@ publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: presented at *Medical Imaging with Deep Learning (MIDL)*
-publication_short: '*MIDL*'
+publication_short: presented at *MIDL*
 
 abstract: Deep learning now enables automatic and robust extraction of cardiac function
   descriptors from echocardiographic sequences, such as ejection fraction or strain.

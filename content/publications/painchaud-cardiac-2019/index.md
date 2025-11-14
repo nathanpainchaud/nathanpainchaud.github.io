@@ -21,7 +21,7 @@ publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: in proc. *Medical Image Computing and Computer Assisted Intervention (MICCAI)*
-publication_short: '*MICCAI*'
+publication_short: in proc. *MICCAI*
 
 abstract: Recent publications have shown that the segmentation accuracy of modern-day
   convolutional neural networks (CNN) applied on cardiac MRI can reach the inter-expert

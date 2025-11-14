@@ -21,7 +21,7 @@ publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: in proc. *Functional Imaging and Modeling of the Heart*
-publication_short: '*FIMH*'
+publication_short: in proc. *FIMH*
 
 abstract: Deep learning-based methods have spearheaded the automatic analysis of echocardiographic
   images, taking advantage of the publication of multiple open access datasets annotated

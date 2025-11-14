@@ -19,7 +19,7 @@ publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: presented at *Medical Imaging with Deep Learning (MIDL)*
-publication_short: '*MIDL*'
+publication_short: presented at *MIDL*
 
 abstract: In this work, we propose a Variational Autoencoder (VAE) - Generative Adversarial
   Networks (GAN) model that can produce highly realistic MRI together with its pixel accurate
