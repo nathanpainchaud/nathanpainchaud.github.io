@@ -32,7 +32,7 @@ sections:
       title: Teaching Assistant Positions
       filters:
         tag: TA
-      count: 10
+      count: 0
     design:
       view: citation
       show_read_time: false
