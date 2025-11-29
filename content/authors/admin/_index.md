@@ -191,7 +191,7 @@ awards:
     summary: |
       Annual honor roll for graduate students at the Faculty of Science.
   - title: Scientific Distinction
-    url: https://fr.linkedin.com/feed/update/urn:li:activity:7138793315134500864
+    url: https://linkedin.com/feed/update/urn:li:activity:7138793315134500864
     date: '2023-12-01'
     awarder: INSA Lyon
     icon: hero/trophy
