@@ -171,7 +171,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: France-Quebec Joint Thesis Award
-    url: https://www.linkedin.com/feed/update/urn:li:activity:7397684748359258112
+    url: https://www.acfas.ca/prix-concours/prix-partenaires
     date: '2025-11-20'
     awarder: Ministry of International Relations and La Francophonie of Quebec
     icon: hero/trophy
