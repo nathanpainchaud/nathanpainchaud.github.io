@@ -170,6 +170,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Scientific Distinction
+    url: https://www.linkedin.com/pulse/c%C3%A9r%C3%A9monie-en-lhonneur-de-la-recherche-2026-5-histoires-qui-racontent-gx6gf/
+    date: '2026-06-12'
+    awarder: INSA Lyon
+    icon: hero/trophy
+    summary: |
+      One (1) of 26 annual distinctions.
   - title: France-Quebec Joint Thesis Award
     url: https://www.acfas.ca/prix-concours/prix-partenaires
     date: '2025-11-20'
