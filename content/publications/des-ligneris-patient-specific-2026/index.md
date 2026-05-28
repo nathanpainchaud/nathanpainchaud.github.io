@@ -59,7 +59,7 @@ tags:
 # Standard identifiers for auto-linking
 links:
 - type: pdf
-  url: https://hal.science/file/index/docid/5620621/filename/manuscript.pdf
-- name: HAL
-  url: https://hal.science/hal-05620621
+  url: https://arxiv.org/pdf/2605.28217
+- name: arXiv
+  url: https://arxiv.org/abs/2605.28217
 ---
