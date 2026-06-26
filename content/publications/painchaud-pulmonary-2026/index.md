@@ -50,10 +50,10 @@ abstract: Risk stratification for pulmonary embolism (PE) is critical for
 summary: We benchmark different approaches to combine medical records and cardiac biomarkers with rich pulmonary vascular information.
 
 tags:
+- Multimodal fusion # 1st tag is displayed for featured publication, so override alphabetical order to display the most relevant tag
 - Foundation model
 - Graph classification
 - Graph neural networks
-- Multimodal fusion
 - Tabular data
 
 # Display this page in the Featured widget?

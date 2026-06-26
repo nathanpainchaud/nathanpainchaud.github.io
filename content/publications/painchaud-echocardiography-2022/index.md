@@ -45,13 +45,13 @@ abstract: Convolutional neural networks (CNN) have demonstrated their ability to
 summary: In this paper, we propose a framework to learn the 2D+time apical long-axis cardiac shape such that the segmented sequences can benefit from temporal and anatomical consistency constraints.
 
 tags:
+- Cardiac segmentation  # 1st tag is displayed for featured publication, so override order from journal to display the most relevant tag
 - Deep learning
 - CNN
 - Encoding
 - Variational autoencoder
 - Annotations
 - Image segmentation
-- Cardiac segmentation
 - Ultrasound
 - Echocardiography
 - Cardiac function

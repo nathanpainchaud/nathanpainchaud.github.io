@@ -51,12 +51,12 @@ abstract: 'Deep learning enables automatic and robust extraction of cardiac func
 summary: Drawing on novel Transformer models applied to tabular data, we propose a method that considers all descriptors extracted from medical records and echocardiograms to learn the representation of a cardiovascular pathology with a difficult-to-characterize continuum.
 
 tags:
+- Multimodal  # 1st tag is displayed for featured publication, so override order from journal to display the most relevant tag
 - Cardiac ultrasound
 - Health records
 - Pathology
 - Medical services
 - Hypertension
-- Multimodal
 - Deep learning
 - Representation learning
 - Data models

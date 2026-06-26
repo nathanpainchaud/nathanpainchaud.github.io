@@ -46,11 +46,11 @@ abstract: Convolutional neural networks (CNN) have had unprecedented success in 
 summary: In this paper, we present a framework for producing cardiac image segmentation maps that are guaranteed to respect pre-defined anatomical criteria, while remaining within the inter-expert variability.
 
 tags:
+- Cardiac segmentation  # 1st tag is displayed for featured publication, so override order from journal to display the most relevant tag
 - Neural networks
 - CNN
 - Variational autoencoder
 - Image segmentation
-- Cardiac segmentation
 - MRI
 - Magnetic resonance imaging
 - Ultrasound
