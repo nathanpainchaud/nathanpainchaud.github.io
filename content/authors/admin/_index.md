@@ -116,7 +116,7 @@ work:
       Advisors:
       * [Odyssée Merveille](https://www.creatis.insa-lyon.fr/~merveille/) (Associate Professor -- INSA Lyon)
       * [Johannes Lutzeyer](https://johanneslutzeyer.com/) (Associate Professor -- École Polytechnique)
-      * [Thomas Lampert](https://sites.google.com/site/tomalampert/home) (Chair of Data Science and Artificial Intelligence -- Université de Strasbourg)
+      * [Thomas Lampert](https://sites.google.com/site/tomalampert/home) (Full Professor -- Université de Strasbourg)
 
   - position: Research Engineer
     company_name: CREATIS (INSA Lyon)
