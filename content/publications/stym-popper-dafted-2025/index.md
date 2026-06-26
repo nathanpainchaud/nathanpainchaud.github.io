@@ -1,5 +1,5 @@
 ---
-title: DAFTED - Decoupled Asymmetric Fusion of Tabular and Echocardiographic Data for Cardiac Hypertension Diagnosis
+title: "DAFTED: Decoupled Asymmetric Fusion of Tabular and Echocardiographic Data for Cardiac Hypertension Diagnosis"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

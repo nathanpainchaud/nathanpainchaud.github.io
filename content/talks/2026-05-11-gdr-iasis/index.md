@@ -1,5 +1,5 @@
 ---
-title: Pulmonary Embolism Risk Stratification from CTPA and Medical Records - Vascular Graphs Are Not All You Need
+title: "Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need"
 
 event: Vascular Imaging Meet-up of the GdR IASIS, 2nd edition
 
@@ -11,8 +11,8 @@ location: Paris (France)
 #   postcode: ''
 #   country: France
 
-summary: Presentation of work titled "Pulmonary Embolism Risk Stratification from CTPA and Medical Records - Vascular Graphs Are Not All You Need".
-abstract: Presentation of work titled "Pulmonary Embolism Risk Stratification from CTPA and Medical Records - Vascular Graphs Are Not All You Need".
+summary: 'Presentation of work titled "Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need".'
+abstract: 'Presentation of work titled "Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need".'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
