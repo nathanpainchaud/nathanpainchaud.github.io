@@ -105,7 +105,7 @@ education:
 
 work:
   - position: Postdoctoral Researcher
-    company_name: CREATIS (INSA Lyon)
+    company_name: CREATIS - INSA Lyon (France)
     company_url: 'https://www.creatis.insa-lyon.fr/site/en'
     icon: ''
     date_start: 2024-11-04
@@ -119,7 +119,7 @@ work:
       * [Thomas Lampert](https://sites.google.com/site/tomalampert/home) (Full Professor -- Université de Strasbourg)
 
   - position: Research Engineer
-    company_name: CREATIS (INSA Lyon)
+    company_name: CREATIS - INSA Lyon (France)
     company_url: 'https://www.creatis.insa-lyon.fr/site/en'
     icon: ''
     date_start: 2024-06-01
