@@ -109,7 +109,7 @@ work:
     company_url: 'https://www.creatis.insa-lyon.fr/site/en'
     icon: ''
     date_start: 2024-11-04
-    date_end: ''
+    date_end: 2026-10-31
     summary: |
       Research on _Multimodal learning on graphs and clinical data for pulmonary embolism risk stratification models_.
 
