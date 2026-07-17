@@ -68,4 +68,6 @@ links:
   url: uploads/painchaud_pulmonary_2026.pdf
 - name: arXiv
   url: https://arxiv.org/abs/2606.25956
+- type: code
+  url: https://github.com/creatis-myriad/genesis
 ---
