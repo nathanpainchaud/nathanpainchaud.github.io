@@ -12,7 +12,7 @@ authors:
 - Nicolas Thome
 - Olivier Bernard
 
-date: '2025-05-28'
+date: '2026-05-18'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,8 +20,8 @@ date: '2025-05-28'
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: in proc. *Medical Imaging with Deep Learning (MIDL)*
-publication_short: in proc. *MIDL*
+publication: in proc. *Medical Imaging with Deep Learning (MIDL) 2025*
+publication_short: in proc. *MIDL 2025*
 
 abstract: Multimodal data fusion has emerged as a key approach in recent years for enhancing
   diagnosis and prognosis in many medical applications. With the advent of transformer-based
@@ -49,7 +49,9 @@ tags:
 # Standard identifiers for auto-linking
 links:
 - type: pdf
-  url: https://openreview.net/pdf?id=ghhGImwv07
+  url: https://raw.githubusercontent.com/mlresearch/v301/main/assets/stym-popper26a/stym-popper26a.pdf
+- name: PMLR
+  url: https://proceedings.mlr.press/v301/stym-popper26a.html
 - name: OpenReview
   url: https://openreview.net/forum?id=ghhGImwv07
 ---
