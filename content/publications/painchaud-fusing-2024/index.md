@@ -60,4 +60,6 @@ links:
   url: https://openreview.net/pdf?id=atsESsgxPa
 - name: OpenReview
   url: https://openreview.net/forum?id=atsESsgxPa
+- type: code
+  url: https://github.com/creatis-myriad/didactic
 ---
