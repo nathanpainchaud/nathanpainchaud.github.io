@@ -170,6 +170,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Outstanding Reviewer Award
+    url: https://conferences.miccai.org/2026/Registration/MICCAI-2026-OUTSTANDING-REVIEWER-AWARDS.html
+    date: '2026-09-30'
+    awarder: MICCAI Conference
+    icon: hero/trophy
+    summary: |
+      10 awards among 3,900+ reviewers for the international conference.
   - title: Scientific Distinction
     url: https://www.linkedin.com/pulse/c%C3%A9r%C3%A9monie-en-lhonneur-de-la-recherche-2026-5-histoires-qui-racontent-gx6gf/
     date: '2026-06-12'
