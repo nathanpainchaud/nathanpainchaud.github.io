@@ -29,4 +29,13 @@ sections:
       count: 0
     design:
       view: citation
+
+  - block: collection
+    content:
+      title: Workshop Papers
+      filters:
+        publication_type: paper-workshop
+      count: 0
+    design:
+      view: citation
 ---
