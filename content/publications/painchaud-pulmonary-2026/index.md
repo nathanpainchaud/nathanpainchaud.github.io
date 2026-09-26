@@ -15,7 +15,7 @@ authors:
 - Johannes F. Lutzeyer
 - Odyssée Merveille
 
-date: '2026-06-12'
+date: '2026-09-24'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,8 +23,8 @@ date: '2026-06-12'
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: accepted for *Medical Image Computing and Computer Assisted Intervention (MICCAI)*
-publication_short: accepted for *MICCAI*
+publication: in proc. *Medical Image Computing and Computer Assisted Intervention (MICCAI)*
+publication_short: in proc. *MICCAI*
 
 abstract: Risk stratification for pulmonary embolism (PE) is critical for
   clinical decision-making. Stratification guidelines are based on patient
@@ -60,12 +60,12 @@ tags:
 featured: true
 
 # Standard identifiers for auto-linking
-# hugoblox:
-#   ids:
-#     doi: 
+hugoblox:
+  ids:
+    doi: 10.1007/978-3-032-38172-9_47
 links:
 - type: pdf
-  url: uploads/painchaud_pulmonary_2026.pdf
+  url: https://papers.miccai.org/miccai-2026/paper/5113_paper.pdf
 - name: arXiv
   url: https://arxiv.org/abs/2606.25956
 - type: code
