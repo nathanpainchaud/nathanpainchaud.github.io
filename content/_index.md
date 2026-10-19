@@ -16,7 +16,7 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV (in French, last updated 2026-09-26)
+        text: Download CV (in French, last updated 2026-10-19)
         url: uploads/painchaud_nathan_cv.pdf
       headings:
         about: ''
