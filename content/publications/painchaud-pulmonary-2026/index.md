@@ -66,8 +66,6 @@ hugoblox:
 links:
 - type: pdf
   url: https://papers.miccai.org/miccai-2026/paper/5113_paper.pdf
-- name: arXiv
-  url: https://arxiv.org/abs/2606.25956
 - type: code
   url: https://github.com/creatis-myriad/genesis
 ---

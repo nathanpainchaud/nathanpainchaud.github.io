@@ -52,6 +52,4 @@ links:
   url: https://raw.githubusercontent.com/mlresearch/v301/main/assets/stym-popper26a/stym-popper26a.pdf
 - name: PMLR
   url: https://proceedings.mlr.press/v301/stym-popper26a.html
-- name: OpenReview
-  url: https://openreview.net/forum?id=ghhGImwv07
 ---
